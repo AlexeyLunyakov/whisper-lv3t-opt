@@ -170,8 +170,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-.json
-.txt
-.onnx
-.gz
-.pth
+*.json
+*.txt
+*.onnx
+*.onnx_data
+*.gz
+*.pth
