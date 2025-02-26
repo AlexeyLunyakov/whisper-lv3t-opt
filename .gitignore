@@ -176,3 +176,4 @@ cython_debug/
 *.onnx_data
 *.gz
 *.pth
+*.flac
