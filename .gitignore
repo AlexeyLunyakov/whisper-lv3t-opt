@@ -178,3 +178,8 @@ cython_debug/
 *.pth
 *.flac
 work/
+*.zip
+*.rar
+*.7z
+*.docs
+*.pdf
