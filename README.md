@@ -1,5 +1,3 @@
-# whisper-lv3t-opt
-
 <a name="readme-top"></a>  
 <div align="center">
   <p align="center">
