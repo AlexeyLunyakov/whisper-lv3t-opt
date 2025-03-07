@@ -19,8 +19,8 @@
 [Abstract](#title1) |
 [Model](#title2) |
 [Description](#title3) |
-[Testing and Deployment](#title4) |
-[Updates](#title5) |
+[Testing](#title4) |
+[Results](#title5) |
 
 </center>
 
